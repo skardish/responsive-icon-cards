@@ -110,8 +110,46 @@ html {
 
 @media only screen and (min-width: 60em) {
 
+  html {
+    font-size: 120%;
+    line-height: 1.5;
+  }
+
+  .card-body {
+    display: block;
+    width: 100%;
+    margin: 0;
+  }
+
+  .card {
+    display: inline-block;
+    width: 32%;
+  }
+
+  .card-img {
+    display: block;
+  }
 }
 
 @media only screen and (min-width: 90em) {
 
+  html {
+    font-size: 130%;
+    line-height: 1.6;
+  }
+
+  .card-body {
+    display: block;
+    width: 100%;
+    margin: 0;
+  }
+
+  .card {
+    display: inline-block;
+    width: 32%;
+  }
+
+  .card-img {
+    display: block;
+  }
 }
