@@ -25,7 +25,8 @@ html {
 }
 
 .card {
-  margin-top: 1.25rem;
+  margin-top: .75rem;
+  margin-bottom: 1.5rem;
 }
 
 .card-img img {
@@ -37,12 +38,12 @@ html {
 
 .card-body h2 {
   font-weight: normal;
-  margin-top: .25rem;
+  margin-top: 1rem;
   margin-bottom: 0;
 }
 
 .card-body p {
-  margin-bottom: .25rem;
+  margin-bottom: .5rem;
   margin-top: 0;
 }
 
