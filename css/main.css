@@ -79,6 +79,33 @@ html {
 
 @media only screen and (min-width: 38em) {
 
+  html {
+    font-size: 110%;
+    line-height: 1.4;
+  }
+
+  .card-body {
+    display: block;
+    width: 100%;
+    margin: 0;
+  }
+
+  .card {
+    display: inline-block;
+    width: 32%;
+  }
+
+  .card-img {
+    display: block;
+  }
+
+  .card-body h2 {
+    margin: 0;
+  }
+
+  .card-body p {
+    margin: 0;
+  }
 }
 
 @media only screen and (min-width: 60em) {
