@@ -75,6 +75,8 @@ html {
     margin-left: .75rem;
     margin-bottom: 0;
     margin-top: 0;
+  }
+
 }
 
 @media only screen and (min-width: 38em) {
@@ -106,6 +108,7 @@ html {
   .card-body p {
     margin: 0;
   }
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -129,6 +132,7 @@ html {
   .card-img {
     display: block;
   }
+
 }
 
 @media only screen and (min-width: 90em) {
@@ -152,4 +156,5 @@ html {
   .card-img {
     display: block;
   }
+
 }
